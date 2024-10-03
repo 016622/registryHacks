@@ -1,0 +1,30 @@
+Windows Registry Editor Version 5.00
+
+ [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+
+
+ "Segoe UI (TrueType)"=""
+
+
+ "Segoe UI Bold (TrueType)"="THE NEW FONT BOLD"
+
+
+ "Segoe UI Bold Italic (TrueType)"="THE NEW FONT BOLD ITALIC"
+
+
+ "Segoe UI Italic (TrueType)"="THE NEW FONT ITALIC"
+
+
+ "Segoe UI Light (TrueType)"="THE NEW FONT LIGHT"
+
+
+ "Segoe UI Semibold (TrueType)"="THE NEW FONT SEMIBOLD"
+
+
+ "Segoe UI Symbol (TrueType)"=""
+
+
+ [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+
+
+ "Segoe UI"="THE NEW FONT"
